@@ -1,0 +1,25 @@
+Example for playing sessions
+=============================
+card1:mode:card
+card1:size
+card1:toc?
+card1:session@597E94C6
+card1:marker?
+card1:play
+
+
+
+
+card1:mode:card
+card1:select:sdcard@0
+card1:size
+card1:toc?
+card1:session@597E94C6
+	return is: *9B0000008017004C000000000000
+card1:marker?
+	return is: *9C000000000000 = no marker at index 0
+card1:play
+
+
+
+card1:mode:usb

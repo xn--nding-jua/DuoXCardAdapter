@@ -1,0 +1,20 @@
+# Binaries
+*.dcu
+*.bak
+
+# Temporary files
+*.tmp
+*.~*
+
+# Directories
+PCB/AltiumProject/History/
+PCB/AltiumProject/Project Outputs for XCARD_Adapter/
+FPGA/db/
+FPGA/greybox_tmp/
+FPGA/incremental_db/
+FPGA/output_files/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/

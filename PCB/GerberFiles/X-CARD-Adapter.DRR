@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: X-CARD-Adapter.PcbDoc   02.01.2025  09:48:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : X-CARD-Adapter.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             2         PTH        2.00mm (0.08inch)
+T2      0.711mm (28mil)                                           Round             81        PTH        731.85mm (28.81inch)
+T3      0.8mm (31mil)                                             Round             80        PTH        245.07mm (9.65inch)
+T4      1mm (39mil)                                               Round             15        PTH        58.16mm (2.29inch)
+T5      1.016mm (40mil)                                           Round             144       PTH        662.15mm (26.07inch)
+T6      1.04mm (41mil)                                            Round             64        PTH        329.35mm (12.97inch)
+T7      2.2mm (87mil)                                             Round             4         PTH        126.82mm (4.99inch)
+T8      4mm (157mil)                                              Round             4         PTH        81.04mm (3.19inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              394
+
+Total Processing Time (hh:mm:ss) : 00:00:00
